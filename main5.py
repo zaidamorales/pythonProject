@@ -6,5 +6,4 @@ def main():
    print(vowels)
 
 if __name__ == '__main__':
-
    main()
