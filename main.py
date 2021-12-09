@@ -8,7 +8,6 @@ def main():
    cognom = input("Introduce el pimer apellido: ")
    segundo = input("Introduce el segundo apellido: ")
 
-
    print ("*********************")
 
    print(cognom[:2], end="")
