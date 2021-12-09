@@ -1,5 +1,5 @@
 def main():
-    llista = [x * x for x in range(10)]
+    llista = [x for x in range(0, 31, 2)]
 
     print (llista)
 
